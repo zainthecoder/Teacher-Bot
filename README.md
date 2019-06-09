@@ -10,6 +10,7 @@ So, to write larger numbers, we do not need to write "0" that much times.
 ## Technologies used
 * Python 2.7.15
 * Opencv python
+* Haar Cascade Classifier
 * Google Cloud Platform
 * Google Text to Speech API
 
